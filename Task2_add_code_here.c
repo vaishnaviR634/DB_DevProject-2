@@ -22,3 +22,6 @@ void print_prompt() { printf("db > "); }
 // add pager fxns with the functionalities given in Pager_template
 
 // add cursor fxns with the functionalities given in Cursor_template
+
+int main(int argc, char *argv[]) {
+}
